@@ -203,3 +203,55 @@ nav li{
 nav ul li{
   display: inline;
 }
+.table-center {
+
+  margin-bottom: 200px; text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: auto;
+}
+td{
+  border: 1px solid black;
+  padding: 10px;
+  text-align:center;
+}
+th{
+  border: 1px solid black;
+  padding: 10px;
+}
+caption {
+caption-side: bottom;
+text-align: right;
+}
+.row0 {
+  background-color: yellow;
+  }
+.row1 {
+  background-color: pink;
+  }
+.row2 {
+  background-color: lightgreen;
+  }
+.row3 {
+  background-color: lightblue;
+  }
+.row4 {
+  background-color: lightgreen;
+  }
+.row5 {
+  background-color: lightblue;
+  }
+  nav a:active{
+    background-color: yellow;
+  }
+
+  /* Подсветка строк таблицы */
+.browsers tr:hover {
+  background-color:rgba(245, 6, 6, 0.623);
+}
+  .h1table {
+    text-align: center;
+  }
