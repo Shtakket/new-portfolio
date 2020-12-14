@@ -192,3 +192,14 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+nav li{
+  list-style-type: none; /* Убираем маркеры */
+ }
+ nav a:hover{
+  background-color:gold ;
+}
+
+nav ul li{
+  display: inline;
+}
