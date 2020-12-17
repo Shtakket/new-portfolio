@@ -238,7 +238,7 @@ text-align: right;
 .row3 {
   background-color: lightblue;
   }
-.row4 {
+.row4, .row6 {
   background-color: lightgreen;
   }
 .row5 {
